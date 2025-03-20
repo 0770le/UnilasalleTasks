@@ -45,7 +45,7 @@ public class Disciplina {
                 "codigo=" + codigo +
                 ", nome='" + nome + '\'' +
                 ", cargaHoraria='" + cargaHoraria + '\'' +
-                ", turmasLista=" + turmasLista +
+             //   ", turmasLista=" + turmasLista +
                 '}';
     }
 
