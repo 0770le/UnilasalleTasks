@@ -62,7 +62,7 @@ public class Turma {
                 ", dia='" + dia + '\'' +
                 ", horario='" + horario + '\'' +
                 ", sala='" + sala + '\'' +
-                ", alunosLista=" + alunosLista +
+           //     ", alunosLista=" + alunosLista +
                 '}';
     }
 
