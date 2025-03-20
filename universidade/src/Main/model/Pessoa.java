@@ -1,6 +1,6 @@
 package Main.model;
 
-public class Pessoa {
+abstract class Pessoa {
 
     private int matricula;
     private String nome;
