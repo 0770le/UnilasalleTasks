@@ -90,6 +90,7 @@ public class Main {
         scanner.close();
 
         // Exibindo informações
+        System.out.println("\n\n\n\n");
         System.out.println(aluno1.toString());
         System.out.println(aluno2.toString());
         System.out.println(professor1.toString());
